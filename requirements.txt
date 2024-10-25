@@ -1,1 +1,5 @@
 python-telegram-bot==13.7
+openai==0.28.0
+telegram
+pytesseract
+requests
