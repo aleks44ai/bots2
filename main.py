@@ -9,8 +9,8 @@ import io
 import pytesseract
 
 # Ініціалізація токену Telegram і OpenAI
-TELEGRAM_TOKEN = "7356035299:AAHCkcPnMK7MvHoQxlhKAR7VDjVB-u7EjWs"
-OPENAI_API_KEY = "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"
+TELEGRAM_TOKEN = "тут ключь от бота"
+OPENAI_API_KEY = "тут ключь от апи gpt"
 
 openai.api_key = OPENAI_API_KEY
 
